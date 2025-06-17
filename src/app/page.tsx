@@ -19,7 +19,7 @@ export default function Home() {
               GeoReserved
             </h1>
             <h1 className="text-md sm:text-lg font-medium text-center sm:text-left">
-              ระบบจองห้องคอมเอกภูมิศาสตร์ อักษรศาสตร์ จุฬาฯ
+              ระบบจองห้องคอมเอกภูมิศาสตร์
             </h1>
           </div>
         </div>
